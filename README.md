@@ -1,4 +1,4 @@
-# Blockchain Simulatoion —  Practical Assignment
+# Blockchain Simulation —  Practical Assignment
 
 ## 📌 Objective
 Learn how blockchain works by interacting with a live simulator.  
